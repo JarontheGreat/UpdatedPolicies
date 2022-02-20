@@ -21,7 +21,7 @@
 
 6. In cases where the griefing is minor in the opinion of the staff member, a private warning is sufficient.
 
-7. In cases where the griefing is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permenant ban should be issued.
+7. In cases where the griefing is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
 
 8. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
@@ -32,11 +32,11 @@
     * having someone teleport to you in the hope they lose their items
     * purposely giving someone a bad deal by withholding information (e.g. selling a mending book with curse of binding).
 
-10. Stealing, luring and theft can be punsihed by by a temporary or permanent ban.
+10. Stealing, luring and theft can be punished by a temporary or permanent ban.
 
 11. In cases where the offence is minor in the opinion of the staff member, or the player and the victim are able to reconcile, a private warning is sufficient.
 
-12. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permenant ban should be issued.
+12. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
 
 13. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
@@ -54,20 +54,19 @@
 
 17. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
 
-18. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permenant ban should be issued.
+18. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
 
 19. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
 ## Disrespectful behaviour
 20. It is against the rules to be disrespectful towards other people. This includes, but is not limited to:
-    * making derogatory remarks about a person or group of persons based on their personal beliefs or attributes
-    * 
+    * making derogatory remarks about a person or group of persons based on their personal beliefs or attributes.
 
 21. Disrespectful behaviour can be punished by a mute or permanent ban.
 
 22. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
 
-23. In the case where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permenant ban should be issued.
+23. In the case where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
 
 24. A one to two day mute is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer mute is appropriate.
 
