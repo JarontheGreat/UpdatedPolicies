@@ -78,3 +78,21 @@
 27\. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
 
 28\. A 10 to 60 minute mute is sufficient in most other cases. The staff member has discretion if they believe a short or longer mute is appropriate.
+
+## Advertising
+29\. It is against the rules to use the server as a medium for advertising.
+
+30\. A player should be considered to be advertising only if they are consistently or expressely using the server to make better known to other players a link, server or other service that is uncalled-for in the given context or generates financial benefits for that player. This includes, but is not limited to:
+* directing other players to affiliate links
+* joining the server expressly to direct players to a different server or link
+* in contexts uncalled-for, linking players to a non-FroobWorld related Discord server.
+
+31\. For the avoidance of doubt, the following examples should not be considered advertising:
+* where context calls for it, providing another player a recommendation for a product they are not affiliated with
+* inviting a friend to play on another server.
+
+32\. Advertising can be punished by a mute.
+
+33\. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
+
+34\. A 10 to 60 minute mute is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer mute is appropriate.
