@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) have joined the server at least six months ago; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) have been active on the server as a Trusted member over the last three months; and
+&nbsp;&nbsp;&nbsp;&nbsp;b) have been active on the server as a Trusted member over the last two months; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) be of very good standing in the community.
 

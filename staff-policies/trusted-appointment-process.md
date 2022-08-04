@@ -1,6 +1,6 @@
 1\. In order to be eligible for consideration of the Trusted role a player must:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) have joined the server at least three months ago; and
+&nbsp;&nbsp;&nbsp;&nbsp;a) have joined the server at least two months ago; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;b) have been active on the server over the last month; and
 
