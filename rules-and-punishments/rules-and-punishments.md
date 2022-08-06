@@ -1,3 +1,5 @@
+# Rules and punishments
+
 ## General staff considerations
 
 1\. When punishing a player for their actions a staff member should always have regard to the player's intentions.

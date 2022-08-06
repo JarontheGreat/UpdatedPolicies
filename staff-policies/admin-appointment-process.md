@@ -1,3 +1,5 @@
+# Admin appointment process
+
 1\. In order to be eligible for consideration of the Admin role a player must:
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) have joined the server at least three years ago; and

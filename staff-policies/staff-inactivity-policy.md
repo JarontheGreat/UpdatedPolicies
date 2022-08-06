@@ -1,3 +1,5 @@
+# Staff inactivity policy
+
 ## Trusted and Staff
 
 1\. Users in the Trusted and Staff role must remain active on the server in order to keep their role.
