@@ -23,7 +23,7 @@
 
 6\. In cases where the griefing is minor in the opinion of the staff member, a private warning is sufficient.
 
-7\. In cases where the griefing is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
+7\. In cases where the griefing is major in the opinion of the staff member and the staff member believes the player has no intention to follow the server's rules in the future, a permanent ban should be issued.
 
 8\. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
@@ -38,7 +38,7 @@
 
 11\. In cases where the offence is minor in the opinion of the staff member, or the player and the victim are able to reconcile, a private warning is sufficient.
 
-12\. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
+12\. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the server's rules in the future, a permanent ban should be issued.
 
 13\. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
@@ -58,7 +58,7 @@
 
 17\. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
 
-18\. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
+18\. In cases where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the server's rules in the future, a permanent ban should be issued.
 
 19\. A one to two week temporary ban is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer ban is appropriate.
 
@@ -70,7 +70,7 @@
 
 22\. In cases where the offence is minor in the opinion of the staff member, a private warning is sufficient.
 
-23\. In the case where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the servers rules in the future, a permanent ban should be issued.
+23\. In the case where the offence is major in the opinion of the staff member and the staff member believes the player has no intention to follow the server's rules in the future, a permanent ban should be issued.
 
 24\. A one to two day mute is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer mute is appropriate.
 
