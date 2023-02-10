@@ -45,12 +45,14 @@
 ## Cheats and exploits
 14\. It is against the rules to use cheats or exploit glitches and game design flaws. This includes, but is not limited to:
 * duping
-* using x-ray mods, texture packs or glitches
-* any mod that provides a significant advantage over other players
+* x-ray mods, texture packs or glitches
+* auto-mining mods
+* any mod that provides a significant advantage over other players.
 
 15\. For the purpose of this section, and despite 14, the following are not cheats or exploits:
 * accessing and using the nether ceiling
 * minimap mods
+* autoclickers.
 
 16\. Cheating and exploiting can be punished by a temporary or permanent ban.
 
@@ -73,7 +75,7 @@
 24\. A one to two day mute is sufficient in most other cases. The staff member has discretion if they believe a shorter or longer mute is appropriate.
 
 ## Profanity
-25\. It is against the rules to use profanity on the server, in any medium.
+25\. It is against the rules to use profanity on the server, whether that be in chat, on signs, in books, in item names, or any other medium.
 
 26\. Use of profanity can be punished by a mute.
 
