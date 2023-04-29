@@ -46,7 +46,7 @@
 14\. It is against the rules to use cheats or exploit glitches and game design flaws. This includes, but is not limited to:
 * duping
 * x-ray mods, texture packs or glitches
-* auto-mining mods
+* auto-mining/auto-building mods
 * any mod that provides a significant advantage over other players.
 
 15\. For the purpose of this section, and despite 14, the following are not cheats or exploits:
