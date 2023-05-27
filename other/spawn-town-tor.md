@@ -25,6 +25,7 @@
 
 
 6\. The Committee has the power to set and enforce the following in order to uphold the principles of Spawn Town:
+* Restrictions on where players are allowed to build.
 * Area-specific restrictions on the purpose of builds (e.g. shops only).
 * Periods of inactivity beyond which a build may be removed.
 * Build height restrictions.
