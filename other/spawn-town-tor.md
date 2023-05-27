@@ -1,4 +1,4 @@
-# Spawn Town Terms of Reference
+# Spawn Town terms of reference
 
 ## Spawn Town Principles
 
@@ -25,11 +25,11 @@
 
 
 6\. The Committee has the power to set and enforce the following in order to uphold the principles of Spawn Town:
-* Area-specific restrictions on the purpose of buildings (e.g. shops only).
-* Periods of inactivity beyond which a building may be removed.
+* Area-specific restrictions on the purpose of builds (e.g. shops only).
+* Periods of inactivity beyond which a build may be removed.
 * Build height restrictions.
 * Restrictions on which items shops are allowed to sell.
-* Restrictions on the price at which shops are allowed to sell certain items.
+* Restrictions on the price at which shops are allowed to sell items.
 
 7\. The Committee can also make determinations outside of the rules listed in 6 with Staff consent.
 
