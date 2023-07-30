@@ -36,6 +36,10 @@
 
 8\. In cases where existing builds conflict with a new Committee determination, the determination should give the players a reasonable amount of time to comply or grant them an exception.
 
-9\. All Committee decisions require the unanimous consent of all Committee members.
+9\. All Committee decisions require either:
+
+&nbsp;&nbsp;&nbsp;&nbsp;a) the unanimous consent of all committee members; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;b) the consent of at least two committee members, no dissenting views within 24 hours, and staff approval.
 
 10\. Staff have the power to veto a Committee decision if they do not believe it is consistent with the principles of Spawn Town.
