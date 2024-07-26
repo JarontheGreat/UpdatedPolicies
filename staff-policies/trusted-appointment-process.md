@@ -1,5 +1,9 @@
 # Trusted appointment process
 
+> This is a high level policy that guides how Trusted are selected on FroobWorld.
+> 
+> See [this guide](https://froobworld.com/wiki/Server_guide/Trusted_selection) on the FroobWorld wiki for more information about Trusted selection.
+
 1\. In order to be eligible for consideration of the Trusted role a player must:
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) have joined the server at least two months ago; and
