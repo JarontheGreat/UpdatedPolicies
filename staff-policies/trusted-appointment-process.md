@@ -10,7 +10,9 @@
 
 + have been active on the server over the last month; and
 
-+ be of good standing in the community.
++ be of good standing in the community; and
+
++ have at least 4 days of active playtime. (data collected from [plan.froobworld.com](https://plan.froobworld.com/server/Server%201/players))
 
 2\. Any staff member can nominate an eligible player for the Trusted role with existing Trusted members usually being consulted to bring a consensus.
 
