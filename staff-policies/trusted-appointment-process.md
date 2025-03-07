@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) be of good standing in the community.
 
-2\. Any staff member can nominate an eligible player for the Trusted role.
+2\. Any staff member can nominate an eligible player for the Trusted role with existing Trusted members usually being consulted to bring a consensus.
 
 3\. It will be up to the admins to make a judgement on the nominated player's fitness for the role.
 
