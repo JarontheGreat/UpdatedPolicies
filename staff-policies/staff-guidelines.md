@@ -1,27 +1,14 @@
-# Staff appointment process
+# Staff Polices
 
-1\. In order to be eligible for consideration of the Staff role a player must:
+This is a collection of policies to be followed by staff members (Admins, Staff, and Trusted) on Froobworld. This is clarafication to Froobworld's Rules and Punishments to specify staff actions. 
 
-+ have joined the server at least six months ago; and
+## Demotion
 
-+ have been active on the server as a Trusted member over the last two months; and
+The demotion of a staff member, as stated in all appointment policies, is to happen because of one of the following:
 
-+ be of very good standing in the community.
++ Inactivity
+   - Admins: An extended period of time with no indication of returning
+   - Staff and Trusted: a 6 month period
 
-2\. Any admin can nominate an eligible player for the Staff role.
-
-3\. It will be up to the admins to make a judgement on the nominated player's fitness for the role with existing staff members usually being consulted to bring a consensus.
-
-4\. Although there is no set limit to the number of Staff, if it is thought the number of Staff is becoming excessively large the admins should reserve new appointments to only the most exceptional nominations.
-
-5\. If there is total agreement amongst the admins the player may be invited to the staff team
-
-# Staff removal process
-
-1\. A staff member may be removed from the role if one of the following occurs:
-
-+ The staff member has been inactive on the server for longer than 6 months
-
-+ The staff member has violated Froobworld's policies.
-
-2\. Removal of a staff member can take place without consultation. Players who lose their role due to inactivity must go through the standard process of getting it back.
++ A clear violation of Froobworld Policies
+   - As the upholders of rules on Froobworld, staff members should follow all rules strictly. Violations should be reported to higher staff members or equals.
