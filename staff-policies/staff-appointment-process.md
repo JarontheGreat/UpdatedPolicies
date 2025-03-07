@@ -10,7 +10,7 @@
 
 2\. Any admin can nominate an eligible player for the Staff role.
 
-3\. It will be up to the admins to make a judgement on the nominated player's fitness for the role and existing staff members are usually consulted to bring a consensus.
+3\. It will be up to the admins to make a judgement on the nominated player's fitness for the role with existing staff members are usually consulted to bring a consensus.
 
 4\. Although there is no set limit to the number of Staff, if it is thought the number of Staff is becoming excessively large the admins should reserve new appointments to only the most exceptional nominations.
 
