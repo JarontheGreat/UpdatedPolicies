@@ -9,4 +9,4 @@
 * [Staff inactivity policy](staff-policies/staff-inactivity-policy)
 
 ### Other
-* [Spawn Town terms of reference](other/spawn-town-tor)
+* [Spawn Town Values and Regulations](other/spawn-town-vr)
