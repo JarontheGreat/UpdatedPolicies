@@ -36,3 +36,8 @@ The following will not be tolerated between members of staff or between staff an
 It is thought that the Froobworld staff team is to be an extension of the players, made up by players. As a result, transparency should be used as much as possible to inform players about decisions that are affecting the community they have dedicated time to.
 
 For this reason, the following are to take place as stated: 
+
++ The player contact form is to be reviewed and the messages taken seriously (with moderation).
+      - For more information on our contact form, visit the [Player feedback](rules-and-punishments\player-feedback.md) page for more information.
+
++ Large decisions and future changes should be decided based on player feedback, whether directly or in-directly.
