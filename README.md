@@ -1,5 +1,5 @@
 ## Index
-### Rules and punishments
+### Player policies
 * [Rules and punishments](rules-and-punishments/rules-and-punishments)
 
 ### Staff policies
