@@ -1,6 +1,7 @@
 ## Index
 ### Player policies
-* [Rules and punishments](rules-and-punishments/rules-and-punishments)
+* [Rules and punishments](rules-and-punishments/rules-and-punishments.md)
+* [Player feedback](rules-and-punishments/player-feedback.md)
 
 ### Staff policies
 * [Trusted appointment process](staff-policies/trusted-appointment-process.md)
