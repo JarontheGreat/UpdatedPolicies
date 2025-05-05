@@ -7,6 +7,7 @@
 * [Trusted appointment process](staff-policies/trusted-appointment-process.md)
 * [Staff appointment process](staff-policies/staff-appointment-process.md)
 * [Admin appointment process](staff-policies/admin-appointment-process.md)
+* [Staff Deputies](staff-policies/deputies.md)
 * [Staff Guidelines](staff-policies/staff-guidelines.md)
 
 ### Other
