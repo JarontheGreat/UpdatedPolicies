@@ -1,27 +1,20 @@
-# Staff appointment process
+# Deputies
 
-1\. In order to be eligible for consideration of the Staff role a player must:
+A deputy is a staff member who has been selected to obtain temporary access to commands of a the staff level above them. Staff can deputize a player in which case they take on the responsiblility of said player.
 
-+ have joined the server at least six months ago; and
+1\. Staff Deputies will be appointed if they are as follows:
 
-+ have been active on the server as a Trusted member over the last two months; and
++ Shown responsibility with current powers.
 
-+ be of very good standing in the community.
++ Shown they can handle difficult situations in a positive way.
 
-2\. Any admin can nominate an eligible player for the Staff role.
+2\. Admin Deputies will be appointed if they are as follows:
 
-3\. It will be up to the admins to make a judgement on the nominated player's fitness for the role with existing staff members usually being consulted to bring a consensus.
++ Shown responsibility with current powers.
 
-4\. Although there is no set limit to the number of Staff, if it is thought the number of Staff is becoming excessively large the admins should reserve new appointments to only the most exceptional nominations.
++ Shown they can handle difficult situations in a positive way.
 
-5\. If there is total agreement amongst the admins the player may be invited to the staff team
+3\. The length of a deputy depends on who deputized them, but will likely last multiple weeks. This is a way for Admins to judge the responsiblity of future Staff and Admin candidates.
 
-# Staff removal process
+4\. Deputies must adhere to all Froobworld policies along with other staff members.
 
-1\. A staff member may be removed from the role if one of the following occurs:
-
-+ The staff member has been inactive on the server for longer than 6 months
-
-+ The staff member has violated Froobworld's policies.
-
-2\. Removal of a staff member can take place without consultation. Players who lose their role due to inactivity must go through the standard process of getting it back.
